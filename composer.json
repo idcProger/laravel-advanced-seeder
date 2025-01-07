@@ -1,5 +1,5 @@
 {
-  "name": "omaximus/laravel-advanced-seeder",
+  "name": "idcproger/laravel-advanced-seeder",
   "description": "Advanced seeding for laravel framework",
   "keywords": ["laravel", "seed"],
   "require": {
